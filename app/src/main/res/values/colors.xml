@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fjnu_crimson">#8C1D24</color>
+    <color name="fjnu_crimson_dark">#661218</color>
+    <color name="surface_bg">#F6F7F9</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

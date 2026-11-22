@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="hello_title">Hello, Android!</string>
+    <string name="hello_subtitle">福建师范大学 · Android 开发基础实验一</string>
+    <string name="status_initial">环境已就绪，点击下方按钮测试交互</string>
+    <string name="status_clicked">已成功触发交互：%1$d 次</string>
+    <string name="btn_say_hello">测试点击</string>
+</resources>
